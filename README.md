@@ -1,5 +1,7 @@
 # MarityIcons Alpha
 
+### 7 icons are already done! The rest are in progress...!
+
 ## About
 
 Marity icons are beautiful gradient dark icons presumably for Android. At the moment the project is in an active stage of development, so there are not many icons yet.
