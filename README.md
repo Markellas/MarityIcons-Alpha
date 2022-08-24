@@ -1,6 +1,6 @@
 # MarityIcons Alpha
 
-### 7 icons are already done! The rest are in progress...!
+### 8 icons are already done! The rest are in progress...!
 
 ## About
 
